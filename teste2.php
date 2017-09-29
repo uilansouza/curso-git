@@ -1,0 +1,2 @@
+<?php
+//Funcoes 02
